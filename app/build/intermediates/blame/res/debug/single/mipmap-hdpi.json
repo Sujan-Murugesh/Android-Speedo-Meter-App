@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_foreground.png",
+        "source": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

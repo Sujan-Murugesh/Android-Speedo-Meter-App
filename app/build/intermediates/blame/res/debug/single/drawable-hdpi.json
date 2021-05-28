@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_background.png",
+        "source": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stat_notification.png",
+        "source": "C:\\Users\\Sujan\\Desktop\\Private Work\\Android Projects\\speedometer-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_notification.png"
+    }
+]

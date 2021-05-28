@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sujan\.android\build-cache\11a2f9796775221847aa6f1581bf9f0f6783c9f0\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Sujan\Desktop\Private Work\Android Projects\speedometer-android-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d7286c9b8f486e5fc13e2ce964c68c0c6ceab933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sujan\.android\build-cache\1820be361f3d2ca3a83e797bdd3096af3511a98d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Sujan\Desktop\Private Work\Android Projects\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_6d75aea2319ac15ff64fcecbc88f6b8de619d3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sujan\.android\build-cache\8b3dad292f8b37bd8c79ebc2c10133b4b05ffce1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Sujan\Desktop\Private Work\Android Projects\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_f2e65a784e8d1205bb75c93ee89a8b1a7e919a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sujan\.android\build-cache\11a2f9796775221847aa6f1581bf9f0f6783c9f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Sujan\Desktop\Private Work\Android Projects\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_3554e139982b13e7c7191b227ab2831eff2feacb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sujan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Sujan\Desktop\Private Work\Android Projects\speedometer-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_26c7db863ff8a51960cef7ff41b4c62c1fd9dae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sujan\.android\build-cache\ce8c2b788bdd0eab9244bda2317fc2b50312f4e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Sujan\Desktop\Private Work\Android Projects\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_4e4a82a45a8ee9e0e85529847b6299b20349bca7.jar" />
+    </item>
+
+</items>
